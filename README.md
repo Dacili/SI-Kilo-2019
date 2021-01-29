@@ -3,6 +3,8 @@ On this repo you will have access to the backend for faculty system - part for h
 [On this repo](https://github.com/Dacili/SI-FRONTEND) you can see the UI part.
 
 SI-Kilo was a feature that was related to the homework part of the whole university system.
+React.js was used for the UI part. For the backend side we used node.js, with phpMyAdmin database.
+
 Roles were:
 - teachers
 - students
